@@ -1,0 +1,39 @@
+body{
+  width:
+}
+h1{
+  font-size: 20px;
+  font-style: bold;
+  padding: 20px;
+  margin:auto;
+}
+header{
+  color: green;
+  padding-left: left;
+}
+nav{
+  size: 270px;
+  color: #4aaaa5;
+  position: fixed;
+  font-size: 14px;
+  font color: black;
+  box-sizing: border-box;
+  padding: 20px;
+
+}
+h1{
+  box-sizing: border-box;
+  font-size: 20px;
+  board: 0;
+  position: absolute; left:
+  width: 250px;
+  height: 200px;
+  padding: 10px;
+}
+section{
+  box-sizing: content-box;
+  width: 650px;
+}
+footer{
+  float: right;
+}
