@@ -10,7 +10,7 @@ This was my first project that I did starting my web development career. I used 
 ## Motivation
 This was our 1st class assigment to do, learning how to use HTML tags and working with CSS positing, containers and styling.
 
-### Tech
+## Tech
 HTML
 CSS
 
